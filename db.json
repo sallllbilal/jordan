@@ -1,0 +1,60 @@
+{
+  "goods": [
+    {
+      "title": "Nike X Travis Scott Air Jordan 6",
+      "description": "NIKE X TRAVIS SCOTT AIR JORDAN 6 – это баскетбольные кроссовки, которые были впервые  спроектированы и выпущены в 1991 году. Кроссовки имеют мощную поддержку стопы, но не стесняют движения.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/af407608-9bbd-4140-8f5a-e1a24284574d/air-jordan-6-retro-shoes-4m3b9d.png",
+      "price": "1000$",
+      "id": 1
+    },
+    {
+      "title": "Air Jordan 3 Retro OG",
+      "description": "Кроссовки Air Jordan 3 Retro OG «Black Cement» украшены чёрно-серым «слоновым» принтом на мыске и заднике, а боковые панели выполнены из премиальной чёрной кожи с мятым эффектом.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b1e5769b-4f26-4fce-874f-89f3a2c0c256/air-jordan-3-retro-shoes-QjsdH9.png",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "title": "Air Jordan 4 Retro",
+      "description": "Air Jordan 4 - культовые кроссовки с идеальными исполнениями цветовых схем. Обувь очень удобна в носке, она хорошо смотрится как с брюками, спортивными штанами так и с шортами.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4bfbe2c2-7545-4896-932a-290def10d3b5/air-jordan-4-retro-older-shoes-89Tq4B8w.png",
+      "price": "111",
+      "id": 3
+    },
+    {
+      "title": "Nike Air Jordan 5",
+      "description": "Они были выпущены в 1990 году и быстро стали одними из самых популярных кроссовок той эпохи. Дизайн Аир Джордан 5 был вдохновлен истребителями Второй мировой войны, а изображение зубов акулы на промежуточной подошве и светоотражающий язычок стали двумя наиболее узнаваемыми чертами.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/07928b7f-9b0f-4b96-a842-86db5e9b3a6b/air-jordan-5-retro-shoes-z9Qq0K.png",
+      "price": "300",
+      "id": 5
+    },
+    {
+      "title": "Air Jordan 1",
+      "description": "Все началось с них. Легендарные Air Jordan I — это начало всемирно известной линии обуви и новой культуры в мире кроссовок.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/24750e81-85ed-4b0e-8cd8-becf0cd97b2f/air-jordan-1-mid-shoes-7wnzmw.png",
+      "price": "100",
+      "id": 1
+    },
+    {
+      "title": "Air Jordan 2",
+      "description": "Air Jordan II — классические высокие баскетбольные кроссовки для мужчин, разработанные дизайнером Брюсом Килгором в 1985 году.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2402b8d6-57a0-4f5a-8df1-890561729761/air-jordan-2-retro-h-wings-mens-shoes-mVqlM7.png",
+      "price": "400",
+      "id": 4
+    },
+    {
+      "title": "Air Jordan 6",
+      "description": "Кроссовки имеют полиуретановую пенопластовую подошву, которая обеспечивает легкую амортизацию. В области пятки и передней части стопы видимая и герметизированная система Nike Air обеспечивает повышенную отзывчивость.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/58d138a9-7640-43c7-b6ee-4c668ec4a30c/air-jordan-6-retro-big-kids-shoes-yATYM4KO.png",
+      "price": "1000",
+      "id": 6
+    },
+    {
+      "title": "Air Jordan 7  Retro",
+      "description": "7 Retro — седьмая номерная модель Майкла Джордана, в которой он получил золотую медаль на Олимпийских играх в Барселоне в 1992 году. Разработанные Тинкером Хэтфилдом, кроссовки обладают моноблочным силуэтом с внутренним текстильным сапожком с перфорацией для вентиляции.",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c388aed-1ee9-470d-b484-19292e29b292/air-jordan-7-retro-mens-shoes-7Zr804.png",
+      "price": "1200",
+      "id": 7
+    }
+  ]
+}
